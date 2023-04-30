@@ -2,9 +2,9 @@
 Information Security Practicals-University of Delhi
 
 ## Submitted by
-###  Divya A
-###  College Roll no: 20201457
-###  Exam Roll no: 20016570005
+####  Divya A
+####  College Roll no: 20201457
+####  Exam Roll no: 20016570005
 
 ## Practical Questions
 1. Implement the error correcting code.

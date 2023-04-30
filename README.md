@@ -5,7 +5,8 @@ Information Security Practicals-University of Delhi
 ###  Divya A
 ###  College Roll no: 20201457
 ###  Exam Roll no: 20016570005
-####.
+
+## Practical Questions
 1. Implement the error correcting code.
 2. Implement the error detecting code.
 3. Implement caeser cipher substitution operation.
